@@ -27,5 +27,5 @@ Também é importante ter certeza de que as dependências necessárias estão in
 
 
 #### Resultado:
-![testepassou.png](Imagens%2Ftestepassou.png)
+![testepassou.png](imagens%2Ftestepassou.png)
 
