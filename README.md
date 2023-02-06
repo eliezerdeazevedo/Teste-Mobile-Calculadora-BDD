@@ -2,7 +2,7 @@
 ## Python, Behave &amp; Appium (Calculadora nativa Android)
 
 Este teste é um exemplo de como executar o Appium, Behave utilizando BDD para 
-abrir a calculadora nativa de um dispositvo Android e realizar a operação matemática
+abrir a calculadora nativa de um dispositivo Android e realizar a operação matemática
 10 + 20 e verificar se o resultado da operação é igual a 30.
 
 #### Ambiente:
